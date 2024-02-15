@@ -1,0 +1,12 @@
+.chooseBtnCtn {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.playBtn {
+  background-color: bisque;
+  padding: 10px 20px;
+  margin-top: 50px;
+  font-weight: bold;
+}
